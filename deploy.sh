@@ -12,6 +12,6 @@ cd _book
 git add -A
 git commit -m 'deploy'
 
-git push  git@github.com:fanfanbigeye/my-first-gitbook.git master:gh-pages
+git push -f git@github.com:fanfanbigeye/my-first-gitbook.git master:gh-pages
 
 cd -
