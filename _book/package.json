@@ -1,0 +1,24 @@
+{
+  "name": "my-first-gitbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build",
+    "deploy": "bash deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanfanbigeye/my-first-gitbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanfanbigeye/my-first-gitbook/issues"
+  },
+  "homepage": "https://github.com/fanfanbigeye/my-first-gitbook#readme"
+}
