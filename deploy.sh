@@ -9,6 +9,7 @@ npm run build
 # 进入生成的文件夹
 cd _book
 
+git init
 git add -A
 git commit -m 'deploy'
 
